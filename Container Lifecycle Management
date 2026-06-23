@@ -1,0 +1,9 @@
+Check logs : docker logs python-container
+
+Stop container : docker stop python-container
+
+Start again : docker start python-container
+
+Remove container : docker rm python-container
+
+Remove image: docker rmi my-python-app
