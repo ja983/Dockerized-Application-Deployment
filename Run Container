@@ -1,0 +1,6 @@
+docker run -d \
+--name python-container \
+-p 8080:5000 \
+my-python-app
+
+Access: http://localhost:8080
