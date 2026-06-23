@@ -1,0 +1,5 @@
+Pull image : docker pull nginx
+
+Tag image : docker tag my-python-app myrepo/my-python-app:v1
+
+Inspect image : docker inspect my-python-app
